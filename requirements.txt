@@ -1,0 +1,4 @@
+BTrees>=5.0
+pybloom-live>=4.0.0
+pytest>=7.0.0
+sortedcontainers>=2.4.0
